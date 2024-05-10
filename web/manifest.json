@@ -1,6 +1,6 @@
 {
-    "name": "firstapp",
-    "short_name": "firstapp",
+    "name": "beautify",
+    "short_name": "beautify",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
